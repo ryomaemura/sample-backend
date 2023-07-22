@@ -1,2 +1,4 @@
 .vscode
 __pycache__/
+yolov5s.pt
+runs/*
